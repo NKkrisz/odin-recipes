@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+
+.homepage{
+    font-size: 20px;
+    font-style: italic;
+}
+
+h1{
+    font-style: italic;
+}
+
+img{
+    height: 400px;
+    width: 100;
+}
+
+h3, h4{
+    text-decoration: underline;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    background-color: antiquewhite;
+    font-size: large;
+}
+
+ul > p{
+    font-weight: bold;
+}
+
+ul > li{
+    margin: 5px;
+}
+
+ol{
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    font-size: larger;
+    margin: 5px;
+}
